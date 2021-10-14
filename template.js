@@ -1,4 +1,5 @@
 
+const readME =`
 #[{.tittle}](https://random.dog/)#
 
 
@@ -16,4 +17,8 @@
     [{.usage}]
     
     
-    
+    `
+
+module.exports = {
+    readME
+}
