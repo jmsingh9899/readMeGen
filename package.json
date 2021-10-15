@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/jmsingh9899/readMeGen#readme",
   "dependencies": {
-    "inquirer": "^8.2.0",
     "save": "^2.4.0"
   }
 }
